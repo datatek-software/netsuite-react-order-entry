@@ -38,7 +38,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "@hitc/netsuite-types": "^2018.2.14",
+    "@hitc/netsuite-types": "^2024.2.0",
     "rewire": "^7.0.0"
   },
   "resolutions": {
